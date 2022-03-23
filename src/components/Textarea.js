@@ -100,6 +100,7 @@ function Textarea(props) {
     // settitle(item.title);
     // setnote(item.note);
   };
+  console.log("Git Check");
   
    
   return (
